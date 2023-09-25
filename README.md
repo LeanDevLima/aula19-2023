@@ -48,5 +48,7 @@ ele auxilia na instalação e desinstalação de pacotes, gerenciamento da vers�
 
 [O packagejson](https://githowto.com/pt-BR/creating_a_branch](https://dev.to/stanley/a-anatomia-do-package-json-1k4k#:~:text=O%20package.,depend%C3%AAncias%20s%C3%A3o%20gerenciadas%20pelo%20NPM.)https://dev.to/stanley/a-anatomia-do-package-json-1k4k#:~:text=O%20package.,depend%C3%AAncias%20s%C3%A3o%20gerenciadas%20pelo%20NPM.)
 
-
+---
+A resolução dessa atividade está no arquivo index.js. O repositório onde a atividade foi feita em grupo e o https://github.com/Julianawbc/aula19-2023
+---
 
